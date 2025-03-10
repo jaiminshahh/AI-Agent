@@ -1,1 +1,5 @@
-"anthropic\nstreamlit\npython-dotenv\naiohttp\nrequests" 
+anthropic
+streamlit
+python-dotenv
+aiohttp
+requests
